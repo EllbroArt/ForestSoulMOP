@@ -1,11 +1,11 @@
 {
-	"name": "Forest Soul VK mob",
-	"short_name": "Forest Soul VK mob",
+	"name": "Forest Soul VK_MOB",
+	"short_name": "Forest Soul VK_MOB",
 	"description": "Brave hero, go on an exciting adventure to clear the forest from the darkness that filled it. On the way you will meet dangerous monsters and difficult challenges.  Features:  36 hand-built levels! Examination that will test speed, combat skill and attentiveness! Pumping makes the hero stronger! Obstacles on the way will force you to apply all the available experience! Enemies are ready to challenge and surprise with their skills in battle! Each boss has a variety of abilities, to which every fight will be interesting! Perfect pixel graphics, retro style, with beautiful animation!",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
-	"background_color": "#ffffff",
+	"background_color": "#2a304f",
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
@@ -37,5 +37,6 @@
 			"sizes": "512x512",
 			"type": "image/png"
 		}
-	]
+	],
+	"theme_color": "#2a304f"
 }
